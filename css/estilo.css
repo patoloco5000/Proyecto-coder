@@ -1,0 +1,121 @@
+*
+{ 
+    padding: 0 ;margin: 0;
+    background-color: white;
+}
+
+*
+{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+li
+{
+    list-style: none;
+    font-weight: bold;
+}
+
+h1
+{
+    font-style: italic;
+    font-size: 40px;
+    text-align: center;
+}
+
+p
+{
+    color: black;
+    font-weight: bolder;
+}
+
+li
+{
+    display: inline-block;
+    margin-left: 30px;
+}
+
+nav
+{
+    display: flex;
+    width: 100%;
+}
+
+
+.barranav
+{
+    display: flex
+    ;justify-content: center;
+    align-content: center;
+}
+
+.footernav
+{
+    display: flex
+    ;justify-content: center;
+    text-align: center;
+}
+
+a
+{
+    margin-right: 30px;
+}
+
+.pfooter
+{
+    text-align: center;
+    color: red;
+}
+
+h4
+{
+    color: black;
+}
+
+.pcenter
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+h3
+{
+    display: flex;
+    justify-content: center;
+    align-content: center; 
+    font-weight: bold;
+}
+
+a
+{
+    color: red;
+    text-decoration: none;
+    align-items: center;
+}
+
+.navbar
+{
+border-style: solid;color: red;
+}
+
+footer
+{
+    border-style: solid;color: red;
+}
+
+h2
+{
+    color: red;
+}
+
+h1
+{
+    color: black;
+    
+}
+
+.rojo
+{
+    color: red;
+    text-align: center;
+}
